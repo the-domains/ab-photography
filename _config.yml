@@ -1,30 +1,43 @@
-name: AB-Photography
-favicon: null
 title: AB-Photography.us
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose:
+  - name: engagement
+    url: null
+    item: 'null'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.5
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#808183'
     - '#d2d2d2'
     - '#474747'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.8125
   rhythmicContrast: 0
-purpose:
-  - name: engagement
-    item: 'null'
-    url: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: AB-Photography
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2325456
