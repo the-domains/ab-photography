@@ -1,8 +1,37 @@
-title: AB-Photography.us
-purpose:
-  - name: engagement
-    url: null
-    item: 'null'
+typography_spectrum: 0.5
+color:
+  saturation: 0
+  brandStrength: 0.5
+  lightness: 1
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#808183'
+    - '#d2d2d2'
+    - '#474747'
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2325456
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Alexandra Petrova
+  email: Info@AB-Photography.us
+  url: 'http://www.ab-photography.us/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a123a4a4-4afc-4af2-acf1-3b4527b415f9.png
+name: AB-Photography
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d46bb7-a1d3-4214-8d3a-ae77b2e0d9e1.ico
 collections:
   - index:
       path: /
@@ -15,29 +44,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0.5
-  lightness: 1
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#808183'
-    - '#d2d2d2'
-    - '#474747'
-  rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: AB-Photography
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.2325456
+title: AB-Photography.us
+purpose: []
