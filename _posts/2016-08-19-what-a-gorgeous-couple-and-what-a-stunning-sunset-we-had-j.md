@@ -1,14 +1,8 @@
 ---
-author:
-  - name: AB-Photography.us
-    url: 'http://facebook.com/104905329585978'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
+datePublished: '2016-08-19T00:47:15.609Z'
+sourcePath: >-
+  _posts/2016-08-19-what-a-gorgeous-couple-and-what-a-stunning-sunset-we-had-j.md
+isBasedOnUrl: 'https://www.facebook.com/104905329585978/photos/1055377784538723/'
 keywords:
   - ab-photography
   - hovickeverafter
@@ -20,10 +14,13 @@ keywords:
   - photograph
   - sunsets
   - photos
-description: >-
-  What a gorgeous couple, and what a stunning sunset we had! Just swooning
-  looking at these photos! Congratulations Kate & Derek
-inLanguage: en
+related: []
+author:
+  - name: AB-Photography.us
+    url: 'http://facebook.com/104905329585978'
+    avatar: {}
+via: {}
+dateModified: '2016-08-19T00:47:15.194Z'
 title: ''
 app_links:
   - url: 'fb://page/104905329585978'
@@ -36,18 +33,21 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
-isBasedOnUrl: 'https://www.facebook.com/104905329585978/photos/1055377784538723/'
-datePublished: '2016-08-19T00:35:30.087Z'
-dateModified: '2016-08-19T00:35:21.747Z'
-via: {}
+publisher:
+  url: 'http://www.facebook.com'
+  name: Facebook
+  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
+  domain: www.facebook.com
+description: >-
+  What a gorgeous couple, and what a stunning sunset we had! Just swooning
+  looking at these photos! Congratulations Kate & Derek
+inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-08-19-what-a-gorgeous-couple-and-what-a-stunning-sunset-we-had-j.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![What a gorgeous couple, and what a stunning sunset we had! Just swooning looking at these photos! Congratulations Kate & Derek](https://scontent.xx.fbcdn.net/t31.0-8/s720x720/13641105_1055377784538723_6314534990208153424_o.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d66b8160252d3ff7c7f9361938068ae9/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Ft31.0-8%2Fs720x720%2F13641105_1055377784538723_6314534990208153424_o.jpg)
