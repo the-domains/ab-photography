@@ -2,7 +2,7 @@ name: AB-Photography
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d46bb7-a1d3-4214-8d3a-ae77b2e0d9e1.ico
 layout_spectrum: 0.050613515777513385
-typography_spectrum: 0.7665781388059258
+typography_spectrum: 0.12951587745919824
 author:
   name: Alexandra Petrova
   email: Info@AB-Photography.us
@@ -36,13 +36,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 0
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  brandStrength: 0.010538506554439664
+  lightness: 0.8656503937672824
+  saturation: 0.6068084209691733
+  rhythmicContrast: 0.7748029720969498
 purpose: []
