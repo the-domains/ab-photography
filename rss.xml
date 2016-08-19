@@ -4,8 +4,15 @@
         <description><![CDATA[AB-Photography.us]]></description>
         <link>https://thegrid.ai/ab-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 00:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 00:46:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ab-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1c39aed02452dcb961caef8df726791c072b4be.jpg">]]></description>
+            <link>https://thegrid.ai/ab-photography/1289e7b0-bc92-4cc1-9a43-d7541d9b53d0/index.html</link>
+            <guid isPermaLink="false">1289e7b0-bc92-4cc1-9a43-d7541d9b53d0</guid>
+            <pubDate>Fri, 19 Aug 2016 00:46:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="What a gorgeous couple, and what a stunning sunset we had! Just swooning looking at these photos! Congratulations Kate &amp; Derek" src="https://scontent.xx.fbcdn.net/t31.0-8/s720x720/13641105_1055377784538723_6314534990208153424_o.jpg">]]></description>
@@ -19,20 +26,6 @@
             <link>https://thegrid.ai/ab-photography/30d00081-aaf1-44ac-b488-88ffffbc5810/index.html</link>
             <guid isPermaLink="false">30d00081-aaf1-44ac-b488-88ffffbc5810</guid>
             <pubDate>Thu, 07 Jan 2016 13:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This beautiful October evening was just perfect! Such gorgeous light, and these fall colors in the company of this wonderful family ♥</p>]]></description>
-            <link>https://www.facebook.com/AB.Photography.us/photos/a.122933917783119.25643.104905329585978/898428363567000/?type=3</link>
-            <guid isPermaLink="false">8007ee45-8df1-4b7e-baf4-3e4170c89a59</guid>
-            <pubDate>Mon, 12 Oct 2015 16:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/12132464_896885583721278_2434751567288079589_o.jpg">]]></description>
-            <link>https://thegrid.ai/ab-photography/1289e7b0-bc92-4cc1-9a43-d7541d9b53d0/index.html</link>
-            <guid isPermaLink="false">1289e7b0-bc92-4cc1-9a43-d7541d9b53d0</guid>
-            <pubDate>Sun, 11 Oct 2015 18:06:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
