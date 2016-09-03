@@ -1,8 +1,11 @@
 ---
-datePublished: '2016-08-19T00:47:15.609Z'
+datePublished: '2016-08-31T13:50:05.705Z'
 sourcePath: >-
   _posts/2016-08-19-what-a-gorgeous-couple-and-what-a-stunning-sunset-we-had-j.md
+inFeed: true
 isBasedOnUrl: 'https://www.facebook.com/104905329585978/photos/1055377784538723/'
+authors: []
+hasPage: false
 keywords:
   - ab-photography
   - hovickeverafter
@@ -20,7 +23,7 @@ author:
     url: 'http://facebook.com/104905329585978'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T00:47:15.194Z'
+dateModified: '2016-08-31T13:50:04.564Z'
 title: ''
 app_links:
   - url: 'fb://page/104905329585978'
@@ -42,10 +45,8 @@ description: >-
   What a gorgeous couple, and what a stunning sunset we had! Just swooning
   looking at these photos! Congratulations Kate & Derek
 inLanguage: en
-starred: false
-inFeed: true
-hasPage: false
 inNav: false
+starred: true
 _context: 'http://schema.org'
 _type: Photograph
 
